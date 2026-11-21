@@ -1,0 +1,11 @@
+{
+  "_base": "https://raw.githubusercontent.com/marchunchis/PERRO/main/",
+  "au": ["au_a.mp3", "au_b.wav", "au_c.wav", "au_d.wav"],
+  "eat": ["eat_a.wav", "eat_b.wav"],
+  "eno": ["eno_a.wav", "eno_b.wav"],
+  "jad": ["jad_a.wav", "jad_b.wav", "jad_c.wav"],
+  "lad": ["lad_a.wav", "lad_b.wav", "lad_c.wav", "lad_d.wav"],
+  "llo": ["llo_a.wav", "llo_b.mp3", "llo_c.wav", "llod.wav"],
+  "paw": ["paw.wav"],
+  "toy": ["toya.wav", "toyb.wav"]
+}
